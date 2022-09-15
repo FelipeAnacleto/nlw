@@ -16,7 +16,7 @@ body {
 
 body * {
     font-family: 'Inter', sans-serif;
-    line-height: 160%;
+    line-height: 100%;
 }
 
 header {
@@ -96,7 +96,7 @@ section ul li:hover {
 }
 
 .game-list img {
-    width: 90px;
+    width: 110px;
     border-radius: 8px;
 }
 
